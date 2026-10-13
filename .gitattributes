@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
+# Normalize text line endings; preserve GIFTI file bytes.
 * text=auto
+*.gii -text
